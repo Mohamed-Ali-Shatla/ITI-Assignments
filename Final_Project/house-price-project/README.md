@@ -264,10 +264,16 @@ scores are all in the notebook.
 
 ## Screenshots
 
-![Home page - property details form](photos/screenshot-home.png)
 *The property-details form*
 
-![Result page - predicted price](photos/screenshot-result.png)
+
+![Home page - property details form](Photos/screenshot-home.png)
+
+
+
 *The predicted-price result page*
+
+![Result page - predicted price](Photos/screenshot-result.png)
+
 
 
