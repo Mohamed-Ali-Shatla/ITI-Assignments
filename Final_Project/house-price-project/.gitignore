@@ -1,0 +1,19 @@
+# --- Python / notebooks ---
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Node / frontend ---
+node_modules/
+dist/
+*.log
+
+# --- Env files (never commit secrets) ---
+.env
+
+# --- Raw dataset (too large for git; download instructions are in the README) ---
+notebooks/data/*.csv
+
+# --- OS junk ---
+.DS_Store

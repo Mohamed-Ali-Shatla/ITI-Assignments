@@ -1,0 +1,7 @@
+{
+  "model": "RandomForestRegressor",
+  "MAE": 1155772.0029915052,
+  "RMSE": 3122312.0434620148,
+  "R2": 0.9308800774321465,
+  "sklearn_version": "1.6.1"
+}
